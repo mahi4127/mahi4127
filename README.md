@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm actively working on Deep Learning and Machine Learning Models.<br>I'm seeking assistance in developing my coding abilities and skills<br>I'm hoping to collaborate on more interesting and intuitive ML and DL projects, and I'm searching for assistance in developing my coding abilities and aptitude.<br>I'm currently learning RPA (Robotic Process Automation).<br>
+I'm actively working on Deep Learning and Machine Learning Models.<br>I'm seeking assistance in developing my coding abilities and skills<br>I'm hoping to collaborate on more interesting and intuitive ML and DL projects.<br>I'm searching for assistance in developing my coding abilities and aptitude.<br>I'm currently learning RPA (Robotic Process Automation).<br>
 
 
 # 💻 Tech Stack:
@@ -15,7 +15,5 @@ I'm actively working on Deep Learning and Machine Learning Models.<br>I'm seekin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
